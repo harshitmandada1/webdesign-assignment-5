@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Sorting",
+    "filePath": "src/Quicksort.js",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @param {function(foo: number, bar: string): boolean} param - this is function param."
+      },
+      {
+        "lineNumber": 5,
+        "line": " */"
+      },
+      {
+        "lineNumber": 6,
+        "line": "function Sorting(array, left, right) {"
+      }
+    ],
+    "codeParams": [
+      "array",
+      "left",
+      "right"
+    ],
+    "docParams": [
+      "param"
+    ]
+  },
+  {
+    "name": "divide",
+    "filePath": "src/Quicksort.js",
+    "lines": [
+      {
+        "lineNumber": 23,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 24,
+        "line": " * @param {function(foo: number, bar: string): boolean} param - this is function param."
+      },
+      {
+        "lineNumber": 25,
+        "line": " */"
+      },
+      {
+        "lineNumber": 26,
+        "line": "function divide(array, left, right) {"
+      }
+    ],
+    "codeParams": [
+      "array",
+      "left",
+      "right"
+    ],
+    "docParams": [
+      "param"
+    ]
+  },
+  {
+    "name": "StringReverse",
+    "filePath": "src/String Reverse.js",
+    "lines": [
+      {
+        "lineNumber": 0,
+        "line": "/** Reversing a String Using looping"
+      },
+      {
+        "lineNumber": 1,
+        "line": " * @param {function(foo: number, bar: string): boolean} param - this is function param."
+      },
+      {
+        "lineNumber": 2,
+        "line": " */"
+      },
+      {
+        "lineNumber": 3,
+        "line": "function StringReverse(data){"
+      }
+    ],
+    "codeParams": [
+      "data"
+    ],
+    "docParams": [
+      "param"
+    ]
+  },
+  {
+    "name": "Searching_using_binarySearch",
+    "filePath": "src/binary search.js",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 2,
+        "line": " * @param {number[]} param - this is array param."
+      },
+      {
+        "lineNumber": 3,
+        "line": " */"
+      },
+      {
+        "lineNumber": 4,
+        "line": "function Searching_using_binarySearch(num, array) {"
+      }
+    ],
+    "codeParams": [
+      "num",
+      "array"
+    ],
+    "docParams": [
+      "param"
+    ]
+  }
+]
