@@ -8,11 +8,13 @@ Used Java Script to Implement:
 4. Documented the Code Using ESDoc Comments.
 
 ## Installation:
-Install ESDoc and standard-plugin from npm.
+1. Install ESDoc and standard-plugin from npm.
 
 cd your-project/
 npm install --save-dev esdoc esdoc-standard-plugin
 ./node_modules/.bin/esdoc -h
+
+2. Run 'npm install'.
 
 
 ## Usage:
