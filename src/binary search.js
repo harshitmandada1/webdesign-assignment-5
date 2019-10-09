@@ -1,5 +1,8 @@
 //binary search
 /**
+ *
+ * @external {XMLHttpRequest} https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest
+ *
  * @param {number[]} param - this is array param.
  */
 function Searching_using_binarySearch(num, array) {
